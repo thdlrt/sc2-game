@@ -1,0 +1,58 @@
+<RCC>
+    <qresource prefix="/startcase">
+        <file>resource/edit.png</file>
+        <file>resource/exit.png</file>
+        <file>resource/mainBack.png</file>
+        <file>resource/mainIcon.png</file>
+        <file>resource/startButton.png</file>
+        <file>resource/modeChoose.png</file>
+    </qresource>
+    <qresource prefix="/game">
+        <file>resource/center.png</file>
+        <file>resource/map1.png</file>
+        <file>resource/gamemenu.png</file>
+        <file>resource/chooseBtn.png</file>
+        <file>resource/kuangrz.png</file>
+        <file>resource/kuangrzview.png</file>
+        <file>resource/heart.png</file>
+        <file>resource/resource1.png</file>
+        <file>resource/resource2.png</file>
+        <file>resource/soul.png</file>
+        <file>resource/soullast.png</file>
+        <file>resource/leishou.png</file>
+        <file>resource/hurt.gif</file>
+        <file>resource/nomalattack.png</file>
+        <file>resource/soulattack.png</file>
+        <file>resource/zhanglang.png</file>
+        <file>resource/resouce2.png</file>
+        <file>resource/resouce2view.png</file>
+        <file>resource/addatt.png</file>
+        <file>resource/frozen.png</file>
+        <file>resource/range.png</file>
+        <file>resource/hp.png</file>
+        <file>resource/frozon.png</file>
+        <file>resource/fly.png</file>
+        <file>resource/tk.png</file>
+        <file>resource/fire.png</file>
+        <file>resource/fireup.png</file>
+        <file>resource/fs.png</file>
+        <file>resource/hhp.png</file>
+        <file>resource/sp.png</file>
+        <file>resource/map2.png</file>
+        <file>resource/upmap.png</file>
+        <file>resource/nuclear.png</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>resource/music/bgm.mp3</file>
+        <file>resource/music/Alert_TerranAddOnComplete.mp3</file>
+        <file>resource/music/Alert_TerranNeedMoreGas.mp3</file>
+        <file>resource/music/Alert_TerranNeedMoreMinerals.mp3</file>
+        <file>resource/music/Alert_TerranResearchComplete.mp3</file>
+        <file>resource/music/Ghost_Death.mp3</file>
+        <file>resource/music/Ghost_NuclearStrike.mp3</file>
+        <file>resource/music/Ghost_Ready.mp3</file>
+        <file>resource/music/SCV_Help.mp3</file>
+        <file>resource/music/SCV_Ready.mp3</file>
+        <file>resource/music/UnderAttack.mp3</file>
+    </qresource>
+</RCC>
